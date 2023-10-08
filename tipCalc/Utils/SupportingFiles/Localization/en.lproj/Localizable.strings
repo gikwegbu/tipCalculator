@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  tipCalc
+
+  Created by gikwegbu on 07/10/2023.
+  
+*/
+
+"ContentView.welcomeMessage" = "Hello %@!";
