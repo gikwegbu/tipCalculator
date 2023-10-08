@@ -11,7 +11,8 @@ import SwiftUI
 struct tipCalcApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+					calcScreen()
         }
     }
 }
